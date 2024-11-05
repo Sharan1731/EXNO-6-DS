@@ -34,4 +34,4 @@ STEP 5:Include Necessary parameters in each functions.
 ![Screenshot 2024-11-05 103928](https://github.com/user-attachments/assets/71087e51-da67-4eff-ba77-325f41d8653f)
 
 # Result:
- Include your result here
+Thus, all the data visualization techniques of seaborn has been implemented.
